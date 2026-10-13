@@ -1,0 +1,9 @@
+{
+    "name": "node-order-system",
+    "version": "1.0.0",
+    "description": "Node.js project for CI/CD repair demonstration",
+    "main": "order.js",
+    "scripts": {
+        "test": "node --test"
+    }
+}
